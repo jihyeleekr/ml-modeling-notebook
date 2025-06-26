@@ -2,7 +2,7 @@
 
 A regression project using the California Housing dataset to predict median house values in California districts based on real-world housing features.
 
-### 📊 Dataset
+### Dataset
 - **Source**: `fetch_california_housing()` from `scikit-learn`
 - **Target**: `MedHouseVal` (Median house value in $100,000s)
 - **Features**: 
@@ -12,10 +12,10 @@ A regression project using the California Housing dataset to predict median hous
   - `AveBedrms`: Average bedrooms per household
   - `Population`, `AveOccup`, `Latitude`, `Longitude`
 
-### 🧠 Model
+### Model
 - **XGBoost Regressor**
 
-### 🧪 Techniques & Evaluation
+### Techniques & Evaluation
 - Data preprocessing & visualization (Seaborn heatmap)
 - Feature correlation analysis
 - Train/test split (80/20)
