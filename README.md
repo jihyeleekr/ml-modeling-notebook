@@ -14,11 +14,11 @@ This repository contains hands-on machine learning projects focused on predictiv
 - Techniques: Data imputation, scaling, stratified train/test split, accuracy evaluation
 
 ### 2. [House_Price_Prediction](./House_Price_Prediction/)
-> A regression project focused on predicting house prices using real-world housing features.
+> A regression project using the California Housing dataset to predict median house values based on various housing and geographic features.
 
-- Dataset: (e.g., Kaggle’s House Prices dataset)
-- Algorithms: Linear Regression, Ridge/Lasso, Random Forest Regressor
-- Techniques: Feature engineering, log transformation, RMSE evaluation
+- Dataset: California Housing dataset from `sklearn.datasets.fetch_california_housing()`
+- Algorithm: XGBoost Regressor (expandable to Linear Regression, Ridge/Lasso, Random Forest)
+- ⚙Techniques: Feature correlation analysis, data visualization, train/test split, model evaluation (R², MAE), actual vs predicted plotting
 
 ---
 
@@ -27,6 +27,7 @@ This repository contains hands-on machine learning projects focused on predictiv
 - Python 3
 - Pandas, NumPy
 - Scikit-learn
+- XGBoost
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
