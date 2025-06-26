@@ -18,7 +18,7 @@ This repository contains hands-on machine learning projects focused on predictiv
 
 - Dataset: California Housing dataset from `sklearn.datasets.fetch_california_housing()`
 - Algorithm: XGBoost Regressor (expandable to Linear Regression, Ridge/Lasso, Random Forest)
-- ⚙Techniques: Feature correlation analysis, data visualization, train/test split, model evaluation (R², MAE), actual vs predicted plotting
+- Techniques: Feature correlation analysis, data visualization, train/test split, model evaluation (R², MAE), actual vs predicted plotting
 
 ---
 
