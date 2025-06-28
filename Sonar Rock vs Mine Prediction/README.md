@@ -22,7 +22,6 @@ A binary classification project using the Sonar dataset to predict whether sonar
   - ✅ Accuracy Score
   - ✅ Confusion Matrix Heatmap
   - ✅ Classification Report
-  - ✅ ROC Curve & AUC Score
 - Random Forest feature importance visualization
 
 ### Notebooks
