@@ -27,7 +27,7 @@ A regression project predicting median house values in California districts base
 ### 3️Sonar_Rock_vs_Mine_Prediction
 A binary classification project predicting whether sonar signals indicate a rock or a mine.
 
-- **Dataset:** [UCI Sonar Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))  
+- **Dataset:** [Sonar Dataset](./Sonar%20Rock%20vs%20Mine%20Prediction/dataset.csv)
 - **Algorithms:** Logistic Regression, Support Vector Machine (SVM), Random Forest  
 - **Techniques:** Feature scaling, stratified train/test split, confusion matrix heatmap, ROC curve, Random Forest feature importance.
 
