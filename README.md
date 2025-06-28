@@ -1,24 +1,35 @@
 # Machine Learning Projects
 
-This repository contains hands-on machine learning projects focused on predictive modeling using Python and Jupyter notebooks. Each folder contains a complete workflow including data preprocessing, model building, evaluation, and interpretation.
+This repository contains hands-on machine learning projects focused on predictive modeling using Python and Jupyter notebooks. Each folder includes a complete workflow: data preprocessing, model training, evaluation, and interpretation.
 
 ---
 
 ## 📁 Projects Included
 
-### 1. [Diabetes_Prediction](./Diabets_Prediction/)
-> A classification project using patient health data to predict diabetes using algorithms like SVM and Random Forest.
+### 1️Diabetes_Prediction
+A classification project using patient health data to predict diabetes.
 
-- Dataset: Pima Indians Diabetes dataset
-- Algorithms: Support Vector Machine (SVM), Random Forest
-- Techniques: Data imputation, scaling, stratified train/test split, accuracy evaluation
+- **Dataset:** Pima Indians Diabetes dataset  
+- **Algorithms:** Support Vector Machine (SVM), Random Forest  
+- **Techniques:** Data imputation, scaling, stratified train/test split, accuracy evaluation, confusion matrix, ROC curve.
 
-### 2. [House_Price_Prediction](./House_Price_Prediction/)
-> A regression project focused on predicting house prices using real-world housing features.
+---
 
-- Dataset: (e.g., Kaggle’s House Prices dataset)
-- Algorithms: Linear Regression, Ridge/Lasso, Random Forest Regressor
-- Techniques: Feature engineering, log transformation, RMSE evaluation
+### 2️ House_Price_Prediction
+A regression project predicting median house values in California districts based on various housing and geographic features.
+
+- **Dataset:** California Housing dataset from `sklearn.datasets.fetch_california_housing()`  
+- **Algorithms:** XGBoost Regressor (expandable to Linear Regression, Ridge/Lasso, Random Forest)  
+- **Techniques:** Feature correlation analysis, data visualization, train/test split, model evaluation (R², MAE), actual vs predicted plotting.
+
+---
+
+### 3️Sonar_Rock_vs_Mine_Prediction
+A binary classification project predicting whether sonar signals indicate a rock or a mine.
+
+- **Dataset:** [UCI Sonar Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))  
+- **Algorithms:** Logistic Regression, Support Vector Machine (SVM), Random Forest  
+- **Techniques:** Feature scaling, stratified train/test split, confusion matrix heatmap, ROC curve, Random Forest feature importance.
 
 ---
 
@@ -27,6 +38,7 @@ This repository contains hands-on machine learning projects focused on predictiv
 - Python 3
 - Pandas, NumPy
 - Scikit-learn
+- XGBoost
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
@@ -34,4 +46,5 @@ This repository contains hands-on machine learning projects focused on predictiv
 
 ## 💡 Purpose
 
-This repository serves as a portfolio and practice hub for machine learning projects. It showcases skills in data preparation, model selection, evaluation, and interpretation.
+This repository serves as a portfolio and practice hub for machine learning projects. It demonstrates practical skills in data preparation, model selection, evaluation, and clear result interpretation.
+
