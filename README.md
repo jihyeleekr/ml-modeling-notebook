@@ -24,13 +24,19 @@ A regression project predicting median house values in California districts base
 
 ---
 
-### 3️Sonar_Rock_vs_Mine_Prediction
+### 3️ Sonar_Rock_vs_Mine_Prediction
 A binary classification project predicting whether sonar signals indicate a rock or a mine.
 
 - **Dataset:** [Sonar Dataset](./Sonar%20Rock%20vs%20Mine%20Prediction/dataset.csv)
 - **Algorithms:** Logistic Regression, Support Vector Machine (SVM), Random Forest  
 - **Techniques:** Feature scaling, stratified train/test split, confusion matrix heatmap, ROC curve, Random Forest feature importance.
 
+### 4️Fake_News_Detection
+A classification project using natural language processing and multiple machine learning models to detect fake news articles.
+
+- **Dataset:** News article dataset labeled as FAKE or REAL  
+- **Algorithms:** Logistic Regression (LR), Gradient Boosting (GBC), Decision Tree (DT), Random Forest (RFD)  
+- **Techniques:** Text cleaning (regex, stopwords), CountVectorizer/TF-IDF, stratified train/test split, confusion matrix, ROC curve, accuracy comparison, word clouds
 ---
 
 ## 📌 Tools & Libraries
