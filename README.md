@@ -34,7 +34,7 @@ A binary classification project predicting whether sonar signals indicate a rock
 ### 4️ Fake_News_Detection
 A classification project using natural language processing and multiple machine learning models to detect fake news articles.
 
-- **Dataset:** News article dataset labeled as FAKE or REAL  
+- **Dataset:** Separated real and Fake News csv files   
 - **Algorithms:** Logistic Regression (LR), Gradient Boosting (GBC), Decision Tree (DT), Random Forest (RFC)  
 - **Techniques:** Text cleaning (regex, stopwords), CountVectorizer/TF-IDF, stratified train/test split, confusion matrix)
 ---
