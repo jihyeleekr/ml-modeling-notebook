@@ -31,12 +31,12 @@ A binary classification project predicting whether sonar signals indicate a rock
 - **Algorithms:** Logistic Regression, Support Vector Machine (SVM), Random Forest  
 - **Techniques:** Feature scaling, stratified train/test split, confusion matrix heatmap, ROC curve, Random Forest feature importance.
 
-### 4️Fake_News_Detection
+### 4️ Fake_News_Detection
 A classification project using natural language processing and multiple machine learning models to detect fake news articles.
 
 - **Dataset:** News article dataset labeled as FAKE or REAL  
-- **Algorithms:** Logistic Regression (LR), Gradient Boosting (GBC), Decision Tree (DT), Random Forest (RFD)  
-- **Techniques:** Text cleaning (regex, stopwords), CountVectorizer/TF-IDF, stratified train/test split, confusion matrix, ROC curve, accuracy comparison, word clouds
+- **Algorithms:** Logistic Regression (LR), Gradient Boosting (GBC), Decision Tree (DT), Random Forest (RFC)  
+- **Techniques:** Text cleaning (regex, stopwords), CountVectorizer/TF-IDF, stratified train/test split, confusion matrix)
 ---
 
 ## 📌 Tools & Libraries
