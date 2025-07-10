@@ -6,7 +6,7 @@ This repository contains hands-on machine learning projects focused on predictiv
 
 ## 📁 Projects Included
 
-### 1️Diabetes_Prediction
+### 1️ Diabetes_Prediction
 A classification project using patient health data to predict diabetes.
 
 - **Dataset:** Pima Indians Diabetes dataset  
@@ -30,6 +30,8 @@ A binary classification project predicting whether sonar signals indicate a rock
 - **Dataset:** [Sonar Dataset](./Sonar%20Rock%20vs%20Mine%20Prediction/dataset.csv)
 - **Algorithms:** Logistic Regression, Support Vector Machine (SVM), Random Forest  
 - **Techniques:** Feature scaling, stratified train/test split, confusion matrix heatmap, ROC curve, Random Forest feature importance.
+  
+---
 
 ### 4️ Fake_News_Detection
 A classification project using natural language processing and multiple machine learning models to detect fake news articles.
@@ -37,7 +39,18 @@ A classification project using natural language processing and multiple machine 
 - **Dataset:** Separated real and Fake News csv files   
 - **Algorithms:** Logistic Regression (LR), Gradient Boosting (GBC), Decision Tree (DT), Random Forest (RFC)  
 - **Techniques:** Text cleaning (regex, stopwords), CountVectorizer/TF-IDF, stratified train/test split, confusion matrix)
+
 ---
+### 5 Loan Status Prediction
+A classification projet predicting whether a person has a loan or not
+
+- **Dataset:** [Kaggle Loan Preidction](./https://www.kaggle.com/datasets/ninzaami/loan-predication)
+- **Algorithms:** Support Vector Machine (SVM)
+- **Techniques:** Data imputation, scaling, stratified train/test split, accuracy evaluation
+
+---
+
+
 
 ## 📌 Tools & Libraries
 
