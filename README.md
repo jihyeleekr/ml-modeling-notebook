@@ -44,7 +44,7 @@ A classification project using natural language processing and multiple machine 
 ### 5 Loan Status Prediction
 A classification projet predicting whether a person has a loan or not
 
-- **Dataset:** [Kaggle Loan Preidction](./https://www.kaggle.com/datasets/ninzaami/loan-predication)
+- **Dataset:** [Kaggle Loan Preidction](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 - **Algorithms:** Support Vector Machine (SVM)
 - **Techniques:** Data imputation, scaling, stratified train/test split, accuracy evaluation
 
